@@ -12,6 +12,7 @@
     <artifactId>door</artifactId>
     <version>1</version>
     <name>door</name>
+    <packaging>war</packaging>
 
     <properties>
         <java.version>11</java.version>
